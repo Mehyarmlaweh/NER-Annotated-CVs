@@ -9,5 +9,5 @@ Highlights:
 - Great for training NER models with Spacy
 
 ================================================
-MehyarMLAWEH. 
+* MehyarMLAWEH. 
 https://www.linkedin.com/in/mlaweh-mehyar/
